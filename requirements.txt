@@ -1,0 +1,6 @@
+Flask
+moviepy
+SpeechRecognition
+googletrans
+transformers
+torch
